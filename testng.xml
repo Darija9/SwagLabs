@@ -1,0 +1,9 @@
+<suite name="Swag-Labs-Test-Suite" >
+    <test name="SwagLabs" >
+        <classes>
+            <class name="swag.labs.test.log_in.LogIn"/>
+            <class name="swag.labs.test.product_listing_page.PLPSorting"/>
+            <class name="swag.labs.test.shopping_cart.Checkout"/>
+        </classes>
+    </test>
+</suite>
